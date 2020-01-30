@@ -1,5 +1,5 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
-
+I just learned the basics about bioinformatics,wanted to explore more as im very much interested in learning it.
 
 
 
@@ -10,3 +10,4 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+Coding and its applications.
